@@ -1,4 +1,6 @@
-本项目基于项目https://github.com/zqthu/thu_cloud_download。该项目的README文件如下：
+本项目基于项目https://github.com/zqthu/thu_cloud_download。
+
+该项目的README文件如下：
 
 # THU Cloud Download
 
@@ -25,7 +27,9 @@ More functions will be supported in the future:
 - Download or block files in given list.
 - Download or block files by the pattern of regular expression.
 
-本项目的附加信息：
+
+
+**本项目的附加信息：**
 
 # 背景
 
@@ -35,15 +39,15 @@ More functions will be supported in the future:
 
 # 介绍
 
-    This is a script to download files from Tsinghua Cloud.
+This is a script to download files from Tsinghua Cloud.
 
-    Based on Github project of zqthu. link: https://github.com/zqthu/thu_cloud_download
+Based on Github project of zqthu. link: https://github.com/zqthu/thu_cloud_download
 
-    可下载他人共享的清华云盘链接或者自己的资料库中的所有文件，只要输入需要下载的链接即可。
+可下载他人共享的清华云盘链接或者自己的资料库中的所有文件，只要输入需要下载的链接即可。
 
-    注意：如果是下载资料库中的文件，需要先登录清华云盘，然后将Cookie.txt中的内容替换为自己的Cookie。
+注意：如果是下载资料库中的文件，需要先登录清华云盘，然后将Cookie.txt中的内容替换为自己的Cookie。
 
-    查找自己的Cookie的方法可自行上网搜索。
+查找自己的Cookie的方法可自行上网搜索。
 
 # 用法
 
