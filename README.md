@@ -1,4 +1,4 @@
-本项目基于项目https://github.com/zqthu/thu_cloud_download。
+本项目基于项目https://github.com/zqthu/thu_cloud_download
 
 该项目的README文件如下：
 
